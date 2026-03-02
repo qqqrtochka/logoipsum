@@ -1,0 +1,20 @@
+*{
+
+}
+.header{
+    padding: 30 185px;
+}
+
+.header__conteiner {
+max-width: auto;
+}
+.header__nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__list{
+    display: flex;
+    list-style: none;
+    gap: 49px;
+}
